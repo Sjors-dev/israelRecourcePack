@@ -1,10 +1,9 @@
 {
   "pack": {
-    "pack_format": 56,
-    "supported_formats": {
-      "min_inclusive": 56,
-      "max_inclusive": 999
+      "description": "My Minecraft 26.2 Resource Pack",
+      "min_format": [88, 0],
+      "max_format": [88, 0]
     },
-    "description": "Changes the Happy Ghast(ling)'s face into a -w-"
+    "description": "Tel Aviv approved texture pack."
   }
 }
