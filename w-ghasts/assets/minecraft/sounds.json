@@ -1,0 +1,17 @@
+{
+  "entity.happy_ghast.ambient": {
+    "sounds": [
+      "entity/happy_ghast/moan"
+    ]
+  },
+  "entity.happy_ghast.hurt": {
+    "sounds": [
+      "entity/happy_ghast/scream"
+    ]
+  },
+  "entity.happy_ghast.death": {
+    "sounds": [
+      "entity/happy_ghast/death"
+    ]
+  }
+}
